@@ -25,10 +25,5 @@ All data used for the 2024–2025 season was collected **up to 26 April 2025**, 
 - **Past Seasons (2020–2024):** Full season statistics were used.
 - **Current Season (2024–2025):** Data up to **26 April 2025** only.
 
-## Future Improvements
-- Update predictions as new match data comes in.
-- Add player-level data (e.g., goalscorers, assists).
-- Experiment with XGBoost or other advanced models.
-
 ## License
 Currently, this project is private and for learning/portfolio purposes.
